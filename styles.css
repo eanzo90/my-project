@@ -1,15 +1,24 @@
 body{
-    background-color: rgb(80, 232, 232);
-    font-style: italic;
-    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(to right,
+    red, yellow);
 }
-.code{
-    width: 500px;
-    height: 400px;
+.eanzo{
+    width: 200px;
+    height: 100px;
 }
 section{
-    width: 600px;
-    height: 2000px;
-    background-color: azure;
+    width: 500px;
+    height: 1500px;
     float: right;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(41, 26, 2);
+    color: aliceblue;
+    border-radius: 50px;
+}
+footer{
+    margin: 20px;
+    padding: 20px;
 }
