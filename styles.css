@@ -5,7 +5,6 @@ body{
 .eanzo{
     width: 200px;
     height: 100px;
-    padding: 20px;
 }
 section{
     width: 500px;
@@ -23,8 +22,4 @@ button{
 }
 footer{
     margin: 20px;
-    padding: 20px;
-}
-.code{
-    padding: 5px;
 }
