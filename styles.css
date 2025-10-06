@@ -1,7 +1,14 @@
 body{
     background-color: rgb(80, 232, 232);
     font-style: italic;
-    margin: auto;
-
-
+}
+.code{
+    width: 500px;
+    height: 400px;
+}
+section{
+    width: 600px;
+    height: 2000px;
+    background-color: azure;
+    float: right;
 }
