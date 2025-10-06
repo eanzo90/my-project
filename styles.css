@@ -5,11 +5,13 @@ body{
 .eanzo{
     width: 200px;
     height: 100px;
+    padding: 20px;
 }
 section{
     width: 500px;
     height: 1500px;
     float: right;
+    align-items: center;
 }
 button{
     margin: 20px;
@@ -17,8 +19,12 @@ button{
     background-color: rgb(41, 26, 2);
     color: aliceblue;
     border-radius: 50px;
+
 }
 footer{
     margin: 20px;
     padding: 20px;
+}
+.code{
+    padding: 5px;
 }
